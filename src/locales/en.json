@@ -6,7 +6,15 @@
     "description": "Explore Digimon World Definitive Edition with beginner guides, Digimon details, evolution tips, gameplay features, and development updates for this fan project.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "media": "Media",
+    "release": "Release",
+    "versions": "Versions",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Digimon World Definitive Edition Wiki — Guides, Features & Updates",
@@ -318,12 +326,27 @@
       "secondary": "Watch on YouTube"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Digimon World Definitive Edition Guide",
+    "overviewDescription": "Start with the project overview, confirmed features, and the essential background for this fan-made remake."
+  },
+  "media": {
+    "overviewTitle": "Digimon World Definitive Edition Media",
+    "overviewDescription": "Find verified trailers, video sources, and media coverage for the Digimon World fan project."
+  },
+  "release": {
+    "overviewTitle": "Digimon World Definitive Edition Release",
+    "overviewDescription": "Track confirmed release, download, and development status for this in-progress fan project."
+  },
+  "versions": {
+    "overviewTitle": "Digimon World Definitive Edition Versions",
+    "overviewDescription": "Compare the Definitive Edition with the original Digimon World and review every confirmed change."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllGuides": "View all guides",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -348,10 +371,10 @@
     "officialDiscord": "r/digimon Community",
     "officialYoutube": "IAnime Estúdio",
     "vvBuilder": "Digimon Official Website",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "guideCategory": "Guide",
+    "mediaCategory": "Media",
+    "releaseCategory": "Release",
+    "versionsCategory": "Versions",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
