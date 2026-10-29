@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/digimon/",
     youtube: "https://www.youtube.com/@IAnimeEstudio",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt"],
   defaultLocale: "en",
 };

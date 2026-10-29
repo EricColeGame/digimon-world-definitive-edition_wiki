@@ -18,7 +18,7 @@
   "home": {
     "meta": {
       "title": "Digimon World Definitive Edition Wiki — Guides, Features & Updates",
-      "description": "Complete Digimon World Definitive Edition guide with project overview, trailer, release status, and differences from the original Digimon World."
+      "description": "Explore the Digimon World Definitive Edition fan project through its overview, trailer, release status, and announced differences from the original Digimon World."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
@@ -320,15 +320,15 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Digimon World Definitive Edition?",
-      "description": "From beginner walkthroughs to Digimon details and evolution tips, this community wiki provides free, up-to-date fan-project guides.",
+      "title": "Explore Digimon World Definitive Edition",
+      "description": "Read about the fan project's announcement, trailer, planned features, and current development status.",
       "primary": "Read the Beginner Guide",
       "secondary": "Watch on YouTube"
     }
   },
   "guide": {
     "overviewTitle": "Digimon World Definitive Edition Guide",
-    "overviewDescription": "Start with the project overview, confirmed features, and the essential background for this fan-made remake."
+    "overviewDescription": "Start with the project overview, announced features, and the essential background for this fan-made project."
   },
   "media": {
     "overviewTitle": "Digimon World Definitive Edition Media",
@@ -355,7 +355,7 @@
     "relatedReading": "Related Reading",
     "relatedGuides": "Related Guides",
     "readMore": "Read more",
-    "officialMedia": "Official media",
+    "officialMedia": "Project media",
     "home": "Home",
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
@@ -366,7 +366,7 @@
     "guides": "Guides",
     "legal": "Legal",
     "copyright": "2026 Digimon World Definitive Edition Wiki. Not affiliated with Bandai Namco or the original Digimon rights holders.",
-    "description": "A fan-made Digimon World project with beginner guides, Digimon details, evolution tips and gameplay updates.",
+    "description": "An independent wiki covering the Digimon World fan project, its announced features, and development updates.",
     "playGame": "Watch Gameplay",
     "officialDiscord": "r/digimon Community",
     "officialYoutube": "IAnime Estúdio",

@@ -1,1 +1,381 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Digimon World Definitive Edition",
+    "shortName": "Digimon World Definitive Edition",
+    "tagline": "Guias, jogabilidade, evolução e atualizações do projeto de fãs",
+    "description": "Explore Digimon World Definitive Edition com guias para principiantes, informações sobre Digimon, dicas de evolução, funcionalidades de jogabilidade e atualizações sobre o desenvolvimento deste projeto de fãs.",
+    "legalNotice": "Wiki não oficial de fãs. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "guide": "Guia",
+    "media": "Multimédia",
+    "release": "Lançamento",
+    "versions": "Versões",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Digimon World Definitive Edition — Guias, funcionalidades e atualizações",
+      "description": "Explore o projeto de fãs Digimon World Definitive Edition através da sua apresentação, trailer, estado do lançamento e diferenças anunciadas em relação ao Digimon World original."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitária criada por fãs",
+      "title": "Wiki de Digimon World Definitive Edition",
+      "description": "Explore Digimon World Definitive Edition com guias para principiantes, informações sobre Digimon, dicas de evolução, funcionalidades de jogabilidade e atualizações sobre o desenvolvimento deste projeto criado por fãs.",
+      "stats": [
+        "Guias para principiantes",
+        "Informações sobre Digimon",
+        "Dicas de evolução",
+        "Atualizações do projeto de fãs"
+      ],
+      "primaryCta": "Guia para principiantes",
+      "secondaryCta": "Guias de Digimon",
+      "tertiaryCta": "Atualizações do projeto",
+      "videoLabel": "Jogabilidade e apresentação"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Explorar todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "A sua jornada em Digimon World Definitive Edition",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Apresentação do projeto",
+          "description": "Comece pela apresentação do projeto de fãs: quem o anunciou, o que pretende melhorar e como se relaciona com o jogo clássico."
+        },
+        {
+          "number": "2",
+          "title": "Ver o trailer",
+          "description": "Veja o trailer verificado em inglês e descubra que canal e projeto representa realmente."
+        },
+        {
+          "number": "3",
+          "title": "Estado do lançamento",
+          "description": "Verifique o que foi e não foi confirmado antes de procurar uma data de lançamento, demonstração ou transferência."
+        },
+        {
+          "number": "4",
+          "title": "Comparar versões",
+          "description": "Consulte as diferenças anunciadas em relação ao Digimon World original, incluindo suporte para ecrã panorâmico e novos conteúdos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em destaque agora",
+      "quickLinks": [
+        "Apresentação do projeto",
+        "Trailer em inglês",
+        "Estado do lançamento",
+        "Diferenças entre versões"
+      ],
+      "cards": []
+    },
+    "aboutGame": {
+      "title": "O que é Digimon World Definitive Edition?",
+      "paragraphs": [
+        "Digimon World Definitive Edition é um projeto criado por fãs, em desenvolvimento, que pretende modernizar e expandir a experiência clássica de Digimon World. Notícias da comunidade atribuíram o projeto à IAnime Studios, e os criadores partilham atualizações através do seu servidor Discord. Esta wiki também deixa clara a distinção: não se trata de um lançamento oficial da Bandai Namco.",
+        "Os planos anunciados incluem suporte para ecrã panorâmico 16:9, novos Digimon, novas rotas de evolução, novos ataques, novos mapas e três opções de idioma. A Wiki de Digimon World Definitive Edition organiza o estado e o contexto do projeto para ajudar os fãs a distinguir informações confirmadas de especulações."
+      ],
+      "stats": [
+        {
+          "label": "Criador",
+          "value": "IAnime Studios"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Projeto de fãs"
+        },
+        {
+          "label": "Género",
+          "value": "RPG de criação e treino"
+        },
+        {
+          "label": "Visitas",
+          "value": "Em desenvolvimento"
+        },
+        {
+          "label": "Favoritos",
+          "value": "Atualizações no Discord"
+        },
+        {
+          "label": "Total de habilidades",
+          "value": "6+ melhorias"
+        },
+        {
+          "label": "Nível máximo",
+          "value": "3 idiomas"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Wiki de Digimon World Definitive Edition",
+      "description": "Acompanhe o projeto de fãs com informações verificadas sobre a sua origem, conteúdos multimédia, estado do lançamento, funcionalidades anunciadas, raízes da jogabilidade, atualizações de desenvolvimento e cobertura da comunidade.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Apresentação de Digimon World Definitive Edition",
+          "description": "Compreenda o âmbito deste projeto criado por fãs, porque existe e que melhorias anunciadas se destinam ao clássico RPG de criação e treino.",
+          "href": "/guide/digimon-world-definitive-edition-fan-project-overview",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Projeto",
+              "detail": "Uma iniciativa comunitária atribuída à IAnime Studios"
+            },
+            {
+              "label": "Fonte",
+              "detail": "Divulgado a um público mais amplo pela Digimon Fans Chile"
+            },
+            {
+              "label": "Estado",
+              "detail": "Em desenvolvimento, sem versão concluída anunciada"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Trailer de Digimon World Definitive Edition",
+          "description": "Identifique o trailer verificado em inglês, quem o publicou e como evitar confundir este projeto de fãs com lançamentos oficiais de Digimon.",
+          "href": "/media/digimon-world-definitive-edition-trailer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Procure o título do trailer verificado em inglês"
+            },
+            {
+              "label": "2",
+              "detail": "Confirme que quem o publicou é IAnime Estúdio"
+            },
+            {
+              "label": "3",
+              "detail": "Evite substituí-lo por imagens do trailer de Next Order ou de trailers oficiais"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Estado do lançamento de Digimon World Definitive Edition",
+          "description": "Consulte as informações de lançamento divulgadas diretamente pelos criadores antes de considerar verdadeira qualquer data, demonstração jogável ou alegação de transferência.",
+          "href": "/release/digimon-world-definitive-edition-release-date-and-download-status",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Não foi anunciada qualquer data ou período de lançamento"
+            },
+            {
+              "label": "A",
+              "detail": "Não foi anunciada qualquer demonstração jogável"
+            },
+            {
+              "label": "B",
+              "detail": "Não foi anunciada qualquer transferência"
+            },
+            {
+              "label": "C",
+              "detail": "O Discord é o canal indicado para atualizações"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Diferenças de Digimon World Definitive Edition",
+          "description": "Compare as modernizações anunciadas com o original de 1999 para PlayStation, sem tratar alterações planeadas como mecânicas já lançadas.",
+          "href": "/versions/digimon-world-definitive-edition-and-original-digimon-world-differences",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "O ecrã panorâmico 16:9 substitui o formato 4:3 original"
+            },
+            {
+              "label": "A",
+              "detail": "Foram anunciados novos Digimon, rotas de evolução e ataques"
+            },
+            {
+              "label": "B",
+              "detail": "Novos mapas ampliam as áreas originais do Digital World"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Raízes da jogabilidade de Digimon World Definitive Edition",
+          "description": "Veja como a Definitive Edition planeada se baseia no ciclo original de criação e ligação com o parceiro, no seu treino e no recrutamento para File City.",
+          "href": "/guide/digimon-world-definitive-edition-fan-project-overview",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Original",
+              "detail": "O RPG de 1999 centra-se na criação de um parceiro e na ligação com ele"
+            },
+            {
+              "label": "Recrutamento",
+              "detail": "Os jogadores levavam Digimon selvagens de volta a File City"
+            },
+            {
+              "label": "Exploração",
+              "detail": "Treino, cuidados, evolução e viagens pelo Digital World formavam o ciclo de jogo"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Atualizações de desenvolvimento de Digimon World Definitive Edition",
+          "description": "Acompanhe o projeto através dos canais indicados pelos seus criadores e saiba por que motivo o calendário das atualizações pode mudar durante o desenvolvimento.",
+          "href": "/release/digimon-world-definitive-edition-release-date-and-download-status",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Siga a IAnime Studios no YouTube para receber anúncios do projeto"
+            },
+            {
+              "label": "2",
+              "detail": "Entre no servidor Discord do projeto para acompanhar as atualizações de desenvolvimento"
+            },
+            {
+              "label": "3",
+              "detail": "Acompanhe espaços da comunidade, como a Digimon Fans Chile, para obter cobertura"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Contexto das versões de Digimon World Definitive Edition",
+          "description": "Situe o projeto de fãs em relação ao lançamento original e aos lançamentos oficiais da franquia, sem confundir o seu âmbito com os planos da Bandai Namco.",
+          "href": "/versions/digimon-world-definitive-edition-and-original-digimon-world-differences",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "1999",
+              "detail": "O Digimon World original foi lançado para PlayStation"
+            },
+            {
+              "label": "Fãs",
+              "detail": "Definitive Edition é um projeto comunitário não oficial"
+            },
+            {
+              "label": "Oficial",
+              "detail": "A Bandai Namco não anunciou uma remasterização do original"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Fontes do projeto Digimon World Definitive Edition",
+          "description": "Distinga os canais do próprio projeto da cobertura independente da comunidade ao acompanhar os anúncios de forma responsável.",
+          "href": "/guide/digimon-world-definitive-edition-fan-project-overview",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fonte principal",
+              "detail": "A IAnime Studios é a fonte anunciada de informações sobre o projeto"
+            },
+            {
+              "label": "Atualizações",
+              "detail": "O Discord reúne as atualizações contínuas da equipa sobre o desenvolvimento"
+            },
+            {
+              "label": "Cobertura",
+              "detail": "A Digimon Fans Chile noticiou e partilhou o anúncio"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às perguntas mais comuns sobre Digimon World Definitive Edition.",
+      "items": [
+        {
+          "question": "O que é Digimon World Definitive Edition?",
+          "answer": "Digimon World Definitive Edition é um projeto de fãs em desenvolvimento que pretende modernizar e expandir o Digimon World original. Notícias da comunidade atribuíram o projeto à IAnime Studios, e os planos anunciados incluem suporte para ecrã panorâmico, novos Digimon, novas rotas de evolução, novos ataques, novos mapas e três opções de idioma."
+        },
+        {
+          "question": "Digimon World Definitive Edition é um lançamento oficial da Bandai Namco?",
+          "answer": "Não. É um projeto comunitário, e esta wiki é um guia independente criado por fãs. A Bandai Namco não anunciou uma remasterização oficial do Digimon World original."
+        },
+        {
+          "question": "Quando será lançado Digimon World Definitive Edition?",
+          "answer": "Não foi anunciada qualquer data ou período de lançamento. Também não foi anunciada qualquer demonstração jogável ou transferência; as atualizações de desenvolvimento são partilhadas através do servidor Discord do projeto."
+        },
+        {
+          "question": "Que melhorias inclui Digimon World Definitive Edition?",
+          "answer": "Os criadores anunciaram suporte para ecrã panorâmico 16:9, novos Digimon, novas rotas de evolução, novos ataques, novos mapas e três opções de idioma. Estes são planos do projeto, não mecânicas confirmadas numa versão lançada."
+        },
+        {
+          "question": "Como posso acompanhar Digimon World Definitive Edition?",
+          "answer": "Siga a IAnime Studios no YouTube, entre no servidor Discord do projeto e acompanhe a cobertura da comunidade, como a da Digimon Fans Chile, para receber atualizações sobre os principais marcos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Explore Digimon World Definitive Edition",
+      "description": "Leia sobre o anúncio do projeto de fãs, o trailer, as funcionalidades planeadas e o estado atual do desenvolvimento.",
+      "primary": "Ler o guia para principiantes",
+      "secondary": "Ver no YouTube"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Digimon World Definitive Edition",
+    "overviewDescription": "Comece pela apresentação do projeto, pelas funcionalidades anunciadas e pelo contexto essencial deste projeto criado por fãs."
+  },
+  "media": {
+    "overviewTitle": "Multimédia de Digimon World Definitive Edition",
+    "overviewDescription": "Encontre trailers verificados, fontes de vídeo e cobertura multimédia do projeto de fãs Digimon World."
+  },
+  "release": {
+    "overviewTitle": "Lançamento de Digimon World Definitive Edition",
+    "overviewDescription": "Acompanhe as informações confirmadas sobre lançamento, transferência e desenvolvimento deste projeto de fãs em curso."
+  },
+  "versions": {
+    "overviewTitle": "Versões de Digimon World Definitive Edition",
+    "overviewDescription": "Compare Definitive Edition com o Digimon World original e consulte todas as alterações confirmadas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllGuides": "Ver todos os guias",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta secção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leituras relacionadas",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Multimédia do projeto",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Digimon World Definitive Edition",
+    "about": "A Wiki de Digimon World Definitive Edition é um centro independente de guias criado por fãs que abrange percursos para principiantes, informações sobre Digimon, dicas de evolução, funcionalidades de jogabilidade e atualizações do projeto.",
+    "quickLinks": "Ligações rápidas",
+    "guides": "Guias",
+    "legal": "Informações legais",
+    "copyright": "2026 Wiki de Digimon World Definitive Edition. Sem afiliação à Bandai Namco ou aos detentores originais dos direitos de Digimon.",
+    "description": "Uma wiki independente sobre o projeto de fãs Digimon World, as suas funcionalidades anunciadas e as atualizações de desenvolvimento.",
+    "playGame": "Ver jogabilidade",
+    "officialDiscord": "Comunidade r/digimon",
+    "officialYoutube": "IAnime Estúdio",
+    "vvBuilder": "Site oficial de Digimon",
+    "guideCategory": "Guia",
+    "mediaCategory": "Multimédia",
+    "releaseCategory": "Lançamento",
+    "versionsCategory": "Versões",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}
