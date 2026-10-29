@@ -9,7 +9,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://digimon-world-definitive-edition.wiki";
 
   // Static paths that always exist
-  const staticPaths = ["/", "/updates", "/privacy-policy", "/terms-of-service", "/copyright", "/about", ...CONTENT_TYPES.map((contentType) => `/${contentType}`)];
+  const staticPaths = ["/", "/privacy-policy", "/terms-of-service", "/copyright", "/about", ...CONTENT_TYPES.map((contentType) => `/${contentType}`)];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
