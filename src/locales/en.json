@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Digimon World Definitive Edition Wiki",
+    "shortName": "Digimon World Definitive Edition",
+    "tagline": "Guides, Gameplay, Evolution & Fan Project Updates",
+    "description": "Explore Digimon World Definitive Edition with beginner guides, Digimon details, evolution tips, gameplay features, and development updates for this fan project.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -31,18 +31,18 @@
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "title": "Digimon World Definitive Edition Wiki",
+      "description": "Explore Digimon World Definitive Edition with beginner guides, Digimon details, evolution tips, gameplay features, and development updates for this fan-made project.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Beginner Guides",
+        "Digimon Details",
+        "Evolution Tips",
+        "Fan Project Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Digimon Guides",
+      "tertiaryCta": "Project Updates",
+      "videoLabel": "Gameplay & Showcase"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Digimon World Definitive Edition?",
+      "description": "From beginner walkthroughs to Digimon details and evolution tips, this community wiki provides free, up-to-date fan-project guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Watch on YouTube"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Digimon World Definitive Edition Wiki",
+    "about": "Digimon World Definitive Edition Wiki is an independent fan-built guide hub covering beginner routes, Digimon details, evolution tips, gameplay features, and project updates.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Digimon World Definitive Edition Wiki. Not affiliated with Bandai Namco or the original Digimon rights holders.",
+    "description": "A fan-made Digimon World project with beginner guides, Digimon details, evolution tips and gameplay updates.",
+    "playGame": "Watch Gameplay",
+    "officialDiscord": "r/digimon Community",
+    "officialYoutube": "IAnime Estúdio",
+    "vvBuilder": "Digimon Official Website",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

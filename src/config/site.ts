@@ -5,6 +5,7 @@ export interface SiteConfig {
   tagline: string;
   description: string;
   url: string;
+  officialUrl: string;
   supportEmail: string;
   gameUrl?: string;
   heroVideoId?: string;
@@ -25,12 +26,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Guides, Gameplay, Evolution & Fan Project Updates",
   description: "Your fan-made guide to Digimon World Definitive Edition! Explore beginner guides, Digimon details, evolution tips, gameplay features, and development updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://digimon-world-definitive-edition.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
+  officialUrl: "https://digimon.net/",
+  supportEmail: "support@digimon-world-definitive-edition.wiki",
   gameUrl: "https://www.youtube.com/watch?v=MfRXYzcOUkQ",
   heroVideoId: "MfRXYzcOUkQ",
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.reddit.com/r/digimon/",
+    youtube: "https://www.youtube.com/@IAnimeEstudio",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
